@@ -2,7 +2,7 @@ const TelegramBot = require('node-telegram-bot-api');
 const { AgoraClient } = require('ecash-agora');
 
 // Telegram Bot Token (replace with your bot token)
-const TELEGRAM_BOT_TOKEN = '123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11';
+const TELEGRAM_BOT_TOKEN = 'BOT_TOKEN';
 
 // Static Xolos RMZ eToken ID
 const tokenId = '9e0a9d4720782cf661beaea6c5513f1972e0f3b1541ba4c83f4c87ef65f843dc';
